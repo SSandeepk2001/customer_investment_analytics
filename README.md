@@ -1,7 +1,5 @@
 # Customer Acquisition, LTV & Investment Optimization Analytics
 
-**Portfolio project tailored to the American Express Analyst – Data Science job description.** This is a learning/demo project built with fictional synthetic data. It is **not** American Express data, a representation of Amex processes, or a production-ready financial model.
-
 ## Business problem
 
 Marketing teams need to assess whether welcome offers produce enough incremental customer value to justify incentive spend. This project measures acquisition KPIs and compares offer types across markets and channels, estimates assumption-based 36-month customer LTV, evaluates offer conversion differences, and forecasts monthly conversions.
